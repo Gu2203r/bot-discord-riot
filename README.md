@@ -4,6 +4,6 @@ Um app no discord que voce consegue fazer consultar sua conta no League of Legen
 
 ### configuração .env:
 
-riot_api_key  -- chave da api da riot
-bot_token     -- token do app do discord
-mongodb_token -- token do mongodb
+- riot_api_key  -- chave da api da riot
+- bot_token     -- token do app do discord
+- mongodb_token -- token do mongodb
